@@ -11,10 +11,8 @@ th {
 table {
 	width: 80%;
 	background-color: tan;
-	border: 3px solid gray;
-	border-radius: 6px;
-	border-right-width: 7px;
-	border-bottom-width: 7px;
+	border: 7px solid gray;
+	border-radius: 5px;
 	margin: auto;
 }
 	
