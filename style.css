@@ -1,0 +1,81 @@
+tr, td, th {
+	text-align: center;
+	background-color: beige;
+	 color: gray;
+}
+
+th {
+	text-align: bottom;
+}
+
+table {
+	width: 80%;
+	background-color: tan;
+	border: 3px solid gray;
+	border-right-width: 7px;
+	border-bottom-width: 7px;
+	margin: auto;
+}
+	
+
+img {
+	img:hover (opacity: 0.5);
+}
+
+body {
+  background-color: tan;
+  font-family: w3-serif;
+  font-size: 18px;
+  color: white;
+}
+
+h1 {
+  color: gray;
+  text-align: center;
+  border: 5px solid gray;
+  border-radius: 8px;
+  background-color: beige;
+  padding: 10px;
+  margin-left: 6px;
+  margin-right: 2px;
+}
+
+ul {
+	padding: 20px;
+	padding-left: 30px;
+	background-color: gray;
+	max-width: 100px;
+	margin: auto;
+	float: left;
+	border: 2px solid black;
+	margin-bottom: 40px;
+	margin-left: 35px;
+}
+
+p {
+	margin-left: 10px;
+	margin-right: 5px;
+	max-width: 1150px;
+}
+
+
+// Get the modal
+//var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+//var img = document.getElementById('myImg');
+//var modalImg = document.getElementById("img01");
+//var captionText = document.getElementById("caption");
+//img.onclick = function(){
+//  modal.style.display = "block";
+//  modalImg.src = this.src;
+//  captionText.innerHTML = this.alt;
+//}
+
+// Get the <span> element that closes the modal
+//var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+//span.onclick = function() { 
+//  modal.style.display = "none";
+//}
